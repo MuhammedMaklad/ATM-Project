@@ -1,0 +1,3 @@
+/mnt/shared/ITI-9month/UML/atm system/build/CMakeFiles/atm.dir
+/mnt/shared/ITI-9month/UML/atm system/build/CMakeFiles/edit_cache.dir
+/mnt/shared/ITI-9month/UML/atm system/build/CMakeFiles/rebuild_cache.dir

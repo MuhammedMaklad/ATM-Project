@@ -1,0 +1,29 @@
+┌──────────────────────────────┐
+│        INSERT CARD           │
+│                              │
+│ Card Number: [              ]│
+|                              |
+│ PIN:         [              ]│
+│                              │
+│ Press ENTER to continue      │
+└──────────────────────────────┘
+
+┌──────────────────────────────┐
+│           ATM MENU           │
+│                              │
+│ [WITHDRAW]      DEPOSIT      │
+│  TRANSFER   [BALANCE ENQUIRY]│
+│    EXIT        CHANGE PIN    │
+│                              │
+│ ENTER to select              │
+└──────────────────────────────┘
+
+┌──────────────────────────────┐
+│           DEPOSIT            │
+│                              │
+│   ENTER AMOUNT:              │
+│                              │
+│   [     1000       ]         │
+│                              │
+│       ENTER = CONFIRM        │
+└──────────────────────────────┘
